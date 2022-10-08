@@ -38,7 +38,6 @@ function Contact() {
                 }
             })
             .catch(err => {
-                console.log(err.response)
                 setStatus({ success: false, message: "Something went wrong. Please try again later"})
                 setButtonText('Send')
             })

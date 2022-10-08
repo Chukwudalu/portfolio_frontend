@@ -39,8 +39,8 @@ function Projects() {
             description: "My portfolio website",
             imageUrl: portfolioImgPortfolio,
             tools: ['React.js', 'Node.js', 'Express.js', 'css'],
-            appUrl:"",
-            githubUrl: ""
+            appUrl:"https://devbyjeremiah.netlify.app",
+            githubUrl: "https://github.com/Chukwudalu/portfolio_frontend"
         }
     ]
     
