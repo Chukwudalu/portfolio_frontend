@@ -51,7 +51,7 @@ function NavBar() {
 
             <span className="navbar-text">
                 <div className="social-icon">
-                    <a href="#"><img src={linkedInIcon} alt="linked in icon" /></a>
+                    <a href="https://www.linkedin.com/in/jeremiah-okwuolisa"><img src={linkedInIcon} alt="linked in icon" /></a>
                 </div>
 
                 <button className="vvd" onClick={handleConnectClick}>
